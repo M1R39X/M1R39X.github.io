@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+npm-debug.log*
+vite-dev*.log
+rollback-*/
+deploy-*/
+*.png
+*.jpg
+*.jpeg
+*.webp
